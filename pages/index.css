@@ -1,3 +1,4 @@
+@import url(../blocks/header.css);
 .header {
   display: flex;
   flex-direction: column;
@@ -68,6 +69,7 @@
     line-height: 1;
   }
 }
+@import url(../blocks/main.css);
 .main {
   max-width: 990px;
   margin: 92px auto;
